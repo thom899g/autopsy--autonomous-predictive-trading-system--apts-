@@ -1,0 +1,2 @@
+# autopsy--autonomous-predictive-trading-system--apts-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Predictive Trading System (APTS)' FAILED.MASTER REFLECTION: Worker completed 'Autonomous Predictive Trading System (APTS)'.ORIGINAL ERROR LOGS:Ollama model did not return output. Task attempted but incomplete.OBJECTIVE: Analyze the failure, write a FIXED version of the script, and verify it runs
